@@ -3,7 +3,7 @@
 
 [![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Sristy</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate MERN stack developer.</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8b9cbc48880a647aba320d4dcf06953ff2ec16205197f1f2242bf5b750000c77/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 

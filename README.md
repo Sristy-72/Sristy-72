@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at ([https://sristy-portfolio.netlify.app/](https://sristy-portfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at ([https://sristy-portfolio.netlify.app/](https://sristysportfolio.netlify.app/))
 
 - 💬 Ask me about **HTMl,C,C++**
 

@@ -39,7 +39,7 @@ I'm a Computer Science undergraduate who enjoys building full-stack web applicat
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools & Platforms

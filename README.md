@@ -27,7 +27,7 @@ I'm a Computer Science undergraduate who enjoys building full-stack web applicat
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
 </p>
 
 ### Frontend
@@ -39,7 +39,7 @@ I'm a Computer Science undergraduate who enjoys building full-stack web applicat
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,mongodb,mysql" />
 </p>
 
 ### Tools & Platforms

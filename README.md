@@ -1,6 +1,6 @@
-# Hi, I'm Sristy 👋
+# Hi, I'm Sristy 
 
-### Full Stack Developer | MERN Stack Developer | DSA Enthusiast
+### Full Stack AI Developer | MERN Stack Developer 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sristy-72&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +8,7 @@
 
 I'm a Computer Science Graduate who enjoys building full-stack web applications and solving challenging algorithmic problems. I like turning ideas into products that are clean, scalable, and user-friendly.
 
-* Currently improving my **MERN Stack** skills
+* Currently improving my **Full Stack** skills
 * Solved **300+ DSA problems**
 * Always interested in learning new technologies and building impactful projects
 
@@ -88,14 +88,6 @@ A responsive e-commerce application built using React and Redux.
 * Shopping cart
 * Reusable React components
 * Optimized state management
-
----
-
-## Coding Profiles
-
-* LeetCode: 300+ Problems Solved
-* Strong foundation in Data Structures & Algorithms
-* Regularly practicing problem solving and competitive programming
 
 ---
 

@@ -39,7 +39,7 @@ I'm a Computer Science Graduate who enjoys building full-stack web applications 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgres" />
 </p>
 
 ### Tools & Platforms

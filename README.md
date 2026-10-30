@@ -33,13 +33,13 @@ I'm a Computer Science Graduate who enjoys building full-stack web applications 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,redux,html,css,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </p>
 
 ### Tools & Platforms

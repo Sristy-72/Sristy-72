@@ -38,6 +38,14 @@ Building scalable web applications and exploring AI-powered solutions.
 
 **Node.js · Express.js · MongoDB · MySQL · PostgreSQL**
 
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+**AWS (S3 · Lambda · IAM · EC2) · Docker · Docker Compose**
+
 ### Tools & Platforms
 
 <p>

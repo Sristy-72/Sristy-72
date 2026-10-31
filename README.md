@@ -1,24 +1,14 @@
-# Hi, I'm Sristy 
+# Hi, I'm Sristy
 
-### Full Stack AI Developer | MERN Stack Developer 
+### Full Stack Developer | React.js | Node.js | AI Integration
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sristy-72&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-I'm a Computer Science Graduate who enjoys building full-stack web applications and solving challenging algorithmic problems. I like turning ideas into products that are clean, scalable, and user-friendly.
-
-* Currently improving my **Full Stack** skills
-* Solved **300+ DSA problems**
-* Always interested in learning new technologies and building impactful projects
+Building scalable web applications and exploring AI-powered solutions.
 
 ---
 
 ## Connect With Me
 
-[Portfolio](https://sristysportfolio.netlify.app/) •
-[LinkedIn](https://linkedin.com/in/sristy-720158266) •
-[LeetCode](https://leetcode.com/u/Sristy72)
+[Portfolio](https://sristysportfolio.netlify.app/) • [LinkedIn](https://linkedin.com/in/sristy-720158266)
 
 ---
 
@@ -27,89 +17,84 @@ I'm a Computer Science Graduate who enjoys building full-stack web applications 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
 </p>
+
+**C++ · C · JavaScript · TypeScript**
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,redux,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap" />
 </p>
 
-### Backend
+**React.js · Next.js · Redux · HTML · CSS · Tailwind CSS · Bootstrap**
+
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </p>
+
+**Node.js · Express.js · MongoDB · MySQL · PostgreSQL**
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
+
+**Git · GitHub · Postman · VS Code · Vercel · Netlify**
 
 ---
 
 ## Featured Projects
 
-### Resume Analyzer
+### 1. Resume Analyzer
 
-AI-powered web application that analyzes resumes against job descriptions using Cohere AI.
+An AI-powered web application that analyzes resumes against job descriptions and provides personalized feedback.
 
-**Highlights**
+**Key Features**
+- AI-powered resume analysis using Cohere API
+- Resume and job description matching
+- Match score with personalized recommendations
+- PDF text extraction and processing
+- Google OAuth authentication
+- Dashboard with analysis history
 
-<img width="1774" height="887" alt="resume analyzer architechture" src="https://github.com/user-attachments/assets/bd88a6c0-baaa-4edb-b700-6c2751193849" />
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cohere AI
 
-
-* AI-based resume analysis
-* Resume-job matching score
-* Google OAuth authentication
-* Dashboard with resume history
-* MERN Stack + Cohere API
-
----
-### ConvoFlow
-
-A real-time MERN Stack chat application that enables seamless one-to-one and group conversations with secure authentication.
-
-**Highlights**
-
-* Secure user authentication with JWT
-* Real-time messaging using Socket.IO
-* One-to-one and group chats
-* User search and chat management
-* Responsive UI built with React and Chakra UI
-
----
-### Amazon Clone
-
-A responsive e-commerce application built using React and Redux.
-
-**Features**
-
-* Product browsing
-* Shopping cart
-* Reusable React components
-* Optimized state management
+[View Repository](https://github.com/Sristy-72/Resume_analyzer)
 
 ---
 
-## GitHub Stats
+### 2. ConvoFlow
+
+A real-time messaging application supporting one-to-one and group conversations with secure authentication.
+
+**Key Features**
+- JWT-based authentication
+- Real-time messaging using Socket.IO
+- One-to-one and group conversations
+- User search and chat management
+- Responsive user interface
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Chakra UI
+
+[View Repository](https://github.com/Sristy-72/ConvoFlow)
+
+---
+
+
+## GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sristy-72&show_icons=true&theme=transparent"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sristy-72&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sristy-72&layout=compact&theme=transparent"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sristy-72&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sristy-72&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-> *"Code. Learn. Build. Repeat."*
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>

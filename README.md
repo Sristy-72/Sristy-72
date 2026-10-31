@@ -58,6 +58,9 @@ AI-powered web application that analyzes resumes against job descriptions using 
 
 **Highlights**
 
+<img width="1774" height="887" alt="resume analyzer architechture" src="https://github.com/user-attachments/assets/bd88a6c0-baaa-4edb-b700-6c2751193849" />
+
+
 * AI-based resume analysis
 * Resume-job matching score
 * Google OAuth authentication

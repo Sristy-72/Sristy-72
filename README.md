@@ -1,6 +1,6 @@
 # Hi, I'm Sristy
 
-### Full Stack Developer | React.js | Node.js | AI Integration
+### Full Stack Developer | React.js | Node.js | PostgreSQL | AI Integration
 
 Building scalable web applications and exploring AI-powered solutions.
 
